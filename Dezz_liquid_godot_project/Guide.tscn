@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="TextEdit" type="TextEdit"]
+margin_right = 141.0
+margin_bottom = 41.0
+text = "Left Click: 	Fluid
+Right Click: 	Block"
+readonly = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
